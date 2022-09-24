@@ -46,3 +46,7 @@ h1{
   color: aliceblue;
   text-shadow: 2px 2px 3px black;
 }
+
+h1 span{
+  color: greenyellow;
+}
